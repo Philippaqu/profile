@@ -1,0 +1,104 @@
+body {
+  background-color: #dfeadc;
+  font-family: 'Open Sans', sans-serif;
+  color:#5f9d97;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.6em;
+}
+
+p {
+  font-size: 14px;
+  line-height: 1.3em;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: 50;
+  text-align: center;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: 70;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+a {
+  color: #959e9c;
+}
+
+a:hover {
+  color: #737d7b;
+  text-decoration: underline;
+}
+
+.wrapper {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.bio {
+  background-color: #eaf1e7;
+  margin: 20px;
+  padding: 10px;
+  width: 500px;
+  border-right: 2px solid #cbddc5;
+  border-top: 2px solid #cbddc5;
+  border-bottom: 2px solid #cbddc5;
+  border-left: 2px solid #cbddc5;
+  box-shadow: 10px 10px 3px #d5e4d0;
+  text-align: center;
+}
+
+.social_links {
+  background-color: #eaf1e7;
+  margin: 20px;
+  padding: 10px;
+  width: 500px;
+  border-right: 2px solid #cbddc5;
+  border-top: 2px solid #cbddc5;
+  border-bottom: 2px solid #cbddc5;
+  border-left: 2px solid #cbddc5;
+  box-shadow: 10px 10px 3px #d5e4d0
+}
+
+.tv_shows {
+  background-color: #eaf1e7;
+  margin: 20px;
+  padding: 10px;
+  width: 500px;
+  border-right: 2px solid #cbddc5;
+  border-top: 2px solid #cbddc5;
+  border-bottom: 2px solid #cbddc5;
+  border-left: 2px solid #cbddc5;
+  box-shadow: 10px 10px 3px #d5e4d0
+}
+
+.column {
+  margin-left: 20px;
+}
+
+.column_header {
+  margin-left: 17px;
+}
+
+#picture {
+  height: 75px;
+  width: 100px;
+  border-radius: 75px;
+  border: 2px solid #cbddc5;
+  box-shadow: 3px 3px 3px #d5e4d0;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.text-center {
+  text-align: center;
+}
